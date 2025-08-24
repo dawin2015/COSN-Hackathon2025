@@ -44,9 +44,17 @@ Trigger如下：
 <img width="1200" height="540" alt="erp_mean_ROWS" src="https://github.com/user-attachments/assets/e6d889d0-d747-44a5-ba3c-496ab358cb18" />
 <img width="1200" height="540" alt="erp_mean_ROWE" src="https://github.com/user-attachments/assets/7e598e70-490b-4824-94a7-fdbc91539ba0" />
 
-Heatmap
+**Heatmap**
 <img width="1200" height="750" alt="erp_heatmap_ROWS" src="https://github.com/user-attachments/assets/d96e39e8-2e38-4bd6-9e14-1b3f939ddf19" />
 <img width="1200" height="750" alt="erp_heatmap_ROWE" src="https://github.com/user-attachments/assets/9a56e084-eb1f-4d01-b942-f64fc43eda5a" />
+
+**ERP_top_evoked_abs_mean**
+<img width="1200" height="540" alt="ERP_ROWS_top_evoked_abs_mean_comp6_with_trials" src="https://github.com/user-attachments/assets/c5d28a11-0529-4034-ac40-7db213eee48e" />
+<img width="1200" height="540" alt="ERP_ROWE_top_evoked_abs_mean_comp6_with_trials" src="https://github.com/user-attachments/assets/5034cd4c-8653-44ae-9ff1-b631fa77811f" />
+
+**ERP_top_snr_with_trials**
+<img width="1200" height="540" alt="ERP_ROWS_top_snr_comp6_with_trials" src="https://github.com/user-attachments/assets/d0a87c8e-10e1-41c0-9b96-4335bc7f674c" />
+<img width="1200" height="540" alt="ERP_ROWE_top_snr_comp6_with_trials" src="https://github.com/user-attachments/assets/2da2ddca-dc94-4510-8a33-67dd78cfcd19" />
 
 
 ## 脑电数据可视化
