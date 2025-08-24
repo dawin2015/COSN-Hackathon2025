@@ -58,7 +58,8 @@ Trigger如下：
 
 
 ## 脑电数据可视化
-TODO
+<img width="640" height="480" alt="eeg" src="https://github.com/user-attachments/assets/371df1cc-b979-4f1f-aa76-5c161f98205d" />
+
 
 ## References
 [1] Chen, S., Li, B., He, C., Li, D., Wu, M., Shen, X., Wang, S., Wei, X., Wang, X., Wu, H., & Liu, Q. (2025). ChineseEEG-2: An EEG Dataset for Multimodal Semantic Alignment and Neural Decoding during Reading and Listening (No. arXiv:2508.04240). arXiv. https://doi.org/10.48550/arXiv.2508.04240  
